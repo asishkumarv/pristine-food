@@ -35,6 +35,8 @@ app.use(
       "http://localhost:5174",
       "https://pristine-food-admin.web.app",
       "https://pristine-food-frontend.web.app",
+      "https://pristineorganic.shop",
+      "https://admin.pristineorganic.shop",
     ],
     credentials: true,
   })
