@@ -33,6 +33,8 @@ app.use(
       process.env.ADMIN_FRONTED_URL,
       "http://localhost:5173",
       "http://localhost:5174",
+      "https://pristine-food-admin.web.app",
+      "https://pristine-food-frontend.web.app",
     ],
     credentials: true,
   })
